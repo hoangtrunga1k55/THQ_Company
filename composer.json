@@ -1,0 +1,10 @@
+{
+    "require": {
+        "sun-asterisk/coding-standard": "^0.2.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
+    }
+}
