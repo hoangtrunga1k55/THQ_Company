@@ -8,6 +8,8 @@
     <file>tests</file>
 
     <exclude-pattern>routes/web.php</exclude-pattern>
+    <exclude-pattern>routes/rm.php</exclude-pattern>
+    <exclude-pattern>routes/admin.php</exclude-pattern>
     <exclude-pattern>*/database/*</exclude-pattern>
     <exclude-pattern>*/cache/*</exclude-pattern>
     <exclude-pattern>*/*.js</exclude-pattern>

@@ -13,8 +13,17 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
-
+    'failed' => 'Login failed',
+    'mail_invalid' => 'Please specify the e-mail address in a valid e-mail address format.',
+    'password_failed' => 'The provided password is incorrect.',
+    'throttle' => 'Too many login attempts. Please try again in :minutes minutes.',
+    'login' => 'Login',
+    'logout' => 'Logout',
+    'email' => 'Email',
+    'password' => 'Password',
+    'logo' => 'LOGO',
+    'remember_me' => 'Remember me',
+    'forgot_pw' => 'Forgot password?',
+    'email_address' => 'Email address',
+    'system_name' => 'Web business matching platform',
 ];
