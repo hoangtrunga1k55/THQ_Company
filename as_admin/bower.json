@@ -1,0 +1,20 @@
+{
+    "name": "as_admin",
+    "description": "",
+    "main": "",
+    "authors": [
+        "phongtc <phongtc@its-global.vn>"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/hoangtrunga1k55/THQ",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "adminlte3": "https://github.com/hoangtrunga1k55/adminlte3.git"
+    }
+}
